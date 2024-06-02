@@ -1,3 +1,7 @@
+![OIG1 (7)](https://github.com/Arthur-byte-code/solar-system-moons-analysis/assets/152222113/c81e3f8e-0e7c-4f55-a38a-b2e2ae5148b0)
+
+
+
 # Preview
 
 ![1](https://github.com/Arthur-byte-code/solar-system-moons-analysis/assets/152222113/ce58b096-bcaa-4adc-9df4-aea8db07a5ac)
